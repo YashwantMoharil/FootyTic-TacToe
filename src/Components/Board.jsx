@@ -1,3 +1,4 @@
+//
 import React  from 'react';
 import Tiles from './Tiles';
 import StrikeThrough from './StrikeThrough';
